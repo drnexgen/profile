@@ -171,6 +171,7 @@ Source Code | Reports | PPT | Documentation | UML Diagrams | Deployments | Hardw
 **Ajay Duraisamy**  
 Full-Stack Developer | AI & ML Engineer |
 ---
+
 **Dharaneesh Duraisamy**
 Embedded Systems & IoT Specialist
 
